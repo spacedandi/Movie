@@ -20,6 +20,7 @@ The dataset used in this study is the **TMDb Movie Dataset** publicly available 
 4. Run the script. Each step is clearly marked with comments.
 5. The script will output model evaluation results and generate visualizations.  
    Sample outputs are also included in this repository.
+6. The overall method workflow is illustrated in `Flowchart.png`.
 
 ---
 
