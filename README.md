@@ -15,12 +15,14 @@ The dataset used in this study is the **TMDb Movie Dataset** publicly available 
 ## 🚀 How to Start
 
 1. Download the dataset from Kaggle and place it in the project folder.
-2. Open `movie_revenue_prediction.py`.
-3. Install the required packages.
-4. Run the script. Each step is clearly marked with comments.
-5. The script will output model evaluation results and generate visualizations.  
+2. The overall method workflow is illustrated in `Flowchart.png`.
+3. Open `movie_revenue_prediction.py`.
+4. Install the required packages.
+5. Run the script. Each step is clearly marked with comments.
+6. The script will output model evaluation results and generate visualizations.  
    Sample outputs are also included in this repository.
-6. The overall method workflow is illustrated in `Flowchart.png`.
+7. `run_analysis.py` outputs results of the model trained on overall movie dataset.
+8. `bert_overview.py` outputs results with BERT embeddings of overview features.
 
 ---
 
