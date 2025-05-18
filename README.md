@@ -1,6 +1,6 @@
 # Low-Budget Movie Revenue Prediction 🎬
 
-This repository contains the code and results for a thesis project focused on predicting revenue for low-budget films using machine learning and deep learning models.
+This repository contains the code and results for a thesis project by Zijun Guo focused on predicting revenue for low-budget films using machine learning and deep learning models.
 
 ---
 
