@@ -33,7 +33,7 @@ This project explores revenue prediction for **low-budget films** (budget <$15M)
 We compare classical machine learning models (Ridge, SVR, Random Forest, XGBoost) with **TabNet**, a deep learning model for tabular data. The dataset includes 10,623 films from TMDb (2000–2024).
 
 Key findings:
-- **XGBoost (R² = 0.84)** and **Random Forest (R² = 0.839)** outperform **TabNet (R² = 0.726)**.
+- **XGBoost (R² = 0.840)** and **Random Forest (R² = 0.839)** outperform **TabNet (R² = 0.726)**.
 - Training on only low-budget films improves prediction accuracy across all models.
 - **BERT embeddings** provide limited value, likely due to noise in textual descriptions.
 - **Important predictors** include budget, vote count, and genre (especially Horror, Adventure).
